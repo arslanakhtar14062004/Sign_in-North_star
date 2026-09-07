@@ -1,5 +1,7 @@
 # Northstar Login Page
 
+Short description: A calm, responsive split-panel login experience for Northstar teams.
+
 A polished, responsive login page for **Northstar**, a calm workspace for teams
 who want to move with clarity. The page keeps the original split-panel concept
 while adapting cleanly across desktop, tablet, and mobile screens.
